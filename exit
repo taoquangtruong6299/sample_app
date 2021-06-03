@@ -1,0 +1,35 @@
+[33mcommit a320c7d5defb9a66f37ad944d399799b97933e51[m[33m ([m[1;36mHEAD -> [m[1;32mchapter_3[m[33m)[m
+Author: penpao <taoquangtruong621999@gmail.com>
+Date:   Thu Jun 3 13:02:02 2021 +0700
+
+    Finish static pgaes
+
+[33mcommit 4699c7ae2538f399fc72a38a9c9ec460a70fe08c[m
+Author: penpao <taoquangtruong621999@gmail.com>
+Date:   Wed Jun 2 16:00:32 2021 +0700
+
+    Add a static Pages controller
+
+[33mcommit 3568d205cb56f68b91d2cb00d02be0b44347a51c[m[33m ([m[1;31morigin/init_project[m[33m, [m[1;31mheroku/init_project[m[33m, [m[1;32minit_project[m[33m)[m
+Author: penpao <taoquangtruong621999@gmail.com>
+Date:   Wed Jun 2 15:40:21 2021 +0700
+
+    Add hello
+
+[33mcommit a803168e8989c28b319c702593a343aba6d06dc4[m
+Author: penpao <taoquangtruong621999@gmail.com>
+Date:   Wed Jun 2 15:34:15 2021 +0700
+
+    Initialize repository
+
+[33mcommit 21a61d123e2bf48d647d170c151b1d69d405e0f9[m
+Author: penpao <taoquangtruong621999@gmail.com>
+Date:   Wed Jun 2 15:24:40 2021 +0700
+
+    Init Project
+
+[33mcommit 9af923f35950c891e62728f268fe6f611bcdad41[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: taoquangtruong6299 <37931300+taoquangtruong6299@users.noreply.github.com>
+Date:   Wed Jun 2 15:21:29 2021 +0700
+
+    Initial commit
