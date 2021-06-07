@@ -31,7 +31,7 @@ gem "jquery-rails"
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", ">= 1.4.4", require: false
-
+gem "rails-controller-testing", "~> 1.0", ">= 1.0.5"
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
   gem "rubocop", "~> 0.74.0", require: false
